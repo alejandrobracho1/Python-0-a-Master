@@ -10,4 +10,4 @@ saludo, nombre, edad = saludar()
 
 #print(valores)
 print(saludo)
-print(nombre, edad)
+print(f" Hola {nombre} tu edad es {edad} años")
